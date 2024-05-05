@@ -1,5 +1,6 @@
 
 # EDA: ¿Cómo afecta la intensidad de uso en Social Media a nuestra salud mental?
+![]("C:\\Users\\teres\\Downloads\\pexels-slaytinaaaa-4619829.jpg")
 
 ## Descripción del Proyecto
 
