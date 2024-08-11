@@ -45,3 +45,42 @@ También se debería ampliar el estudio con más datos demográficos para llegar
 Si tienes preguntas, comentarios o sugerencias, no dudes en ponerte en contacto con Teret90
 
 
+## Project Description
+
+This Exploratory Data Analysis (EDA) project aims to explore the relationship between social media usage intensity and mental health. Data will be analyzed to understand how time spent on social media and certain online behaviors may influence individuals' mental health.
+
+## Context
+
+In the current digital age, social media has proliferated and become an integral part of many people's daily lives. However, excessive or inappropriate use can negatively impact mental health, such as anxiety, depression, and low self-esteem. This initial analysis seeks to examine how these factors are related and how we can mitigate any negative impacts.
+
+## Data Used
+
+The data used in this analysis comes from datasets provided by Kaggle for learning purposes. You can access it at this link: https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health/data.
+
+Data cleaning and preprocessing were performed to ensure the quality and integrity of the data before analysis.
+
+## Research Questions
+
+- What is the relationship between the number of hours spent on social media and the risk of mental health issues?
+- What is the relationship between the number of hours spent on social media and misuse of these platforms?
+- Are there gender differences in social media use and the risk of mental health issues?
+- Are there age group differences in social media use and the risk of mental health issues?
+
+## Methodology
+
+In this analysis, data visualization techniques and descriptive statistics will be used for an initial exploration of the topic.
+
+## Key Findings
+
+With the data available, we can say that there is a correlation between social media usage intensity and attitudes or motivations related to its use. It also appears that there is a correlation between these factors and the risk of experiencing depressive symptoms.
+
+## Limitations and Ethical Considerations
+
+While it is true that a more representative sample by gender and age is needed, the study should also be expanded with more demographic data to reach more conclusive findings.
+
+## Contact
+
+If you have any questions, comments, or suggestions, please feel free to contact Teret90.
+
+
+
