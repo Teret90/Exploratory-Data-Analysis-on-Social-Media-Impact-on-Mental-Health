@@ -45,6 +45,8 @@ También se debería ampliar el estudio con más datos demográficos para llegar
 Si tienes preguntas, comentarios o sugerencias, no dudes en ponerte en contacto con Teret90
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Project Description
 
 This Exploratory Data Analysis (EDA) project aims to explore the relationship between social media usage intensity and mental health. Data will be analyzed to understand how time spent on social media and certain online behaviors may influence individuals' mental health.
