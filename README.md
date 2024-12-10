@@ -1,6 +1,9 @@
 
-# EDA: ¿Cómo afecta la intensidad de uso en Social Media a nuestra salud mental?
-![](img/pexels-slaytinaaaa-4619829.jpg)
+# Impacto del uso de redes sociales en la salud mental: un análisis exploratorio de datos
+
+<div style="text-align: center;">
+  <img src="img/img.jpg" width="400"/>
+</div>
 
 ## Descripción del Proyecto
 
@@ -18,10 +21,10 @@ Los datos utilizados en este análisis provienen de los datasets aportados por K
 
 ## Preguntas de Investigación
 
-¿Qué relación hay entre la cantidad de horas empleadas en el uso de RRSS y el riesgo de sufrir enfermedades mentales?
-¿Qué relación hay entre la cantidad de horas empleadas en el uso de RRSS y el mal uso de estas?
-¿hay diferencias por género en el uso de RRSS y el riesgo de sufrir enfermedades mentales?
-¿Hay diferencias por grupos de edad en el uso de RRSS y el riesgo de sufrir enfermedades mentales?
+¿Qué relación hay entre la cantidad de horas empleadas en el uso de RRSS y el riesgo de sufrir sintomatología depresiva?
+¿Qué relación hay entre la cantidad de horas empleadas en el uso de RRSS y el potencial uso nocivo de las mismas?
+¿Qué diferencias hay por género en el uso de RRSS y el riesgo de sufrir sintomatología depresiva?
+¿Qué diferencias hay por grupos de edad en el uso de RRSS y el riesgo de sufrir sintomatología depresiva?
 
 ## Metodología
 
@@ -29,23 +32,26 @@ En este análisis, se utilizarán técnicas de visualización de datos y estadí
 
 ## Resultados Clave
 
-Con los datos que tenemos podemos decir que hay una correlación entre la intensidad de uso de redes sociales y la actitud o la motivación en el uso de éstas, también parece que hay una correlación de estos factores con el riesgo de sufrir algún síntoma depresivo.
-
-
-
+En base al anaálisis se observa una correlación significativa entre el tiempo de uso de redes sociales y los síntomas depresivos en los usuarios. Los resultados sugieren que un mayor uso está relacionado con un mayor riesgo de síntomas de depresión.
 
 ## Limitaciones y Consideraciones Éticas
 
 Si bien, es cierto que necesitaríamos una muestra más representativa por género y edad principalmente.
 También se debería ampliar el estudio con más datos demográficos para llegar a conclusiones más contundentes.
 
+## Instalación de Dependencias
+
+Para poder ejecutar este proyecto, es necesario instalar las dependencias que están en el archivo `requirements.txt`. Esto se puede hacer de la siguiente manera:
+
+
+pip install -r requirements.txt
 
 ## Contacto
 
 Si tienes preguntas, comentarios o sugerencias, no dudes en ponerte en contacto con Teret90
 
 
----------------------------------------------------------------------------------------------------------------------------------------------------
+# Impact of Social Media Usage on Mental Health: An Exploratory Data Analysis
 
 ## Project Description
 
@@ -79,6 +85,13 @@ With the data available, we can say that there is a correlation between social m
 ## Limitations and Ethical Considerations
 
 While it is true that a more representative sample by gender and age is needed, the study should also be expanded with more demographic data to reach more conclusive findings.
+
+## Installing Dependencies
+
+To run this project, you need to install the dependencies listed in the `requirements.txt` file. You can do this by running the following command:
+
+
+pip install -r requirements.txt
 
 ## Contact
 

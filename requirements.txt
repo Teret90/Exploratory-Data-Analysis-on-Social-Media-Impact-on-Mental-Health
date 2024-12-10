@@ -1,0 +1,7 @@
+Python 3.12.1
+numpy version: 1.26.4
+pandas version: 2.2.0
+seaborn version: 0.13.2
+matplotlib==3.8.3
+matplotlib-inline==0.1.6
+plotly==5.19.0
